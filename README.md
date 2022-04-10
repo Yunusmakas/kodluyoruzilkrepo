@@ -1,7 +1,7 @@
 # **Kodluyoruz İlk Repo**
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adetde index barındırıyor. 
 
-![github](figures/github.png)
+![github] (figures/github.png)
 
 ## **Installation**
 
